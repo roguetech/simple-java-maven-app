@@ -28,7 +28,7 @@ pipeline {
             					"files": [
                 					{
                 						"pattern": "*",
-                						"target": "libs-release-local/com/vsware/services/test-app1/${BUILD_NUMBER}/"
+                						"target": "libs-release-local/com/vsware/services/test-app2/${BUILD_NUMBER}/"
                 					}
             					]
             				}"""
